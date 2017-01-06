@@ -1,0 +1,4 @@
+biopython==1.68
+nose2==0.6.5
+numpy==1.11.2
+six==1.10.0
